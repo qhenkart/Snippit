@@ -31,7 +31,7 @@ exports.getAlbumPhotos = function(req, res, album, data, cb){
   cb(JSON.stringify(temp));
 };
 
-// Util function for handling the Albums recieved fur routes before sending
+// Util function for handling the Albums recieved for routes before sending
 // them to the user. Takes a request, a response, a data object with Album
 // information, and a callback.
 exports.handleAlbums = function(req, res, data, cb){
