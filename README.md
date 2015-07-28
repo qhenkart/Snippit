@@ -10,4 +10,4 @@ When users go to snippit.space, they will login with Facebook and be redirected 
 
 When users go to snippit.space, they will login with Facebook and be redirected to the main page where picture cards of tagged facebook photos will populate the view. Users can alter their experience with the transformation buttons on the top of the page. To change how the cards are visualized, they can click the cards to view a larger version of the picture, where they'll have the option to move between the individual photos. On the sidebar, users will find a list of all of their Facebook albums and Instagram photos. Users can mix and match photos from any of these albums and add them to Snips, which they can share with the given link.
 
-Visit the app today at http://snippit.space 
+Visit the app today at http://www.snippit.space 
